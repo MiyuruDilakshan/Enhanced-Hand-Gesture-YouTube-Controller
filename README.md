@@ -371,21 +371,8 @@ Need help? Contact the developer:
 - **Python Community** - For excellent documentation and support
 
 ---
-
-## 📊 Project Stats
-
 <div align="center">
-
-![Language Count](https://img.shields.io/github/languages/count/yourusername/hand-gesture-youtube-controller)
-![Code Size](https://img.shields.io/github/languages/code-size/yourusername/hand-gesture-youtube-controller)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/hand-gesture-youtube-controller)
-
-</div>
-
----
-
-<div align="center">
-
+   
 **⭐ Star this repository if you found it helpful! ⭐**
 
 Made with ❤️ and Python
